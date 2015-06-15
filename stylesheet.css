@@ -1,0 +1,45 @@
+.jumbotron {
+	background-image: url('img/blue6.jpg');
+}
+
+.jumbotron h1 {
+	font-family: "Times New Roman", Times, serif;
+	color: #fff;
+  	font-size: 54px;
+	font-weight: bold;
+}
+
+.content {
+	margin: 0px 10px 0px 10px;
+  	background-color: #f7f7f7;
+  	/*background-image: url('img/texture2.jpg');*/
+  	height: 350px;
+}
+
+.content h3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.content a {
+	color: #00b0ff;
+}
+
+.content p {
+	margin-top: 20px;
+}
+
+.content .servicelist {
+	position: relative;
+	margin-left: -25px;
+}
+
+#navigation {
+	margin: -10px 10px 0px 10px;
+}
+
+span {
+	color: red;
+	font-weight: bold;
+}
